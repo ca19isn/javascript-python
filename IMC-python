@@ -1,0 +1,4 @@
+poids = int(input())
+taille= int(input())
+IMC =poids/(taille*taille)
+print ("L'IMC est de ",IMC")
